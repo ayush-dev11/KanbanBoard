@@ -3,9 +3,11 @@
 ### Setup
 1. npm install
 2. npm run dev
-- localhost:3000
 
 ## Whats the project?
-- Replicated Kaban Board, with functionality of Grouping by Users & Status, & Ordering by Priority
-- I get the data from API call, from which I get list of data for different tasks, and list of data of users.
-- Created a dropdown menu to switch between the flows.
+-A Kanban Board has been replicated, featuring the functionality to group tasks by Users and Status, as well as the ability to order them by Priority.
+-Data is sourced through an API call, providing a list of tasks and a separate list of users.
+-A dropdown menu has been implemented, allowing for the switching between different workflow views.
+
+## Deployed Website
+https://65aba67a44721586f144350f--golden-melomakarona-afae6d.netlify.app/
